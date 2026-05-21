@@ -1,0 +1,8 @@
+*.zip
+*.pkl
+__pycache__/
+.terraform/
+layer/
+layer_slim/
+aws/
+response.json
