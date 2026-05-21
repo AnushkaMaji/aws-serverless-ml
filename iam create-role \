@@ -1,0 +1,15 @@
+{
+    "Content": {
+        "Location": "https://prod-04-2014-layers.s3.us-east-1.amazonaws.com/snapshots/697546651215/fraud-ml-dependencies-da5e341d-ede8-4c29-835c-dea415c836ae?versionId=VqiMuD.KgLy5QJSKgZ5_aNYeKKFbzw3b&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEDYaCXVzLWVhc3QtMSJHMEUCIC%2Fk4b%2BMOvv2D3BVERaZTvi1yjT0ZeW4icnk4Sz%2FJmqQAiEA%2FhILZLiJYeRaI6V3QRm2x1ZLGzhQNl714VV2yb9EvyMqugUI%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw3NDk2Nzg5MDI4MzkiDFBodP9KyH6zDQZmFCqOBZm10plfm7U%2FX86kGAJI%2FNweniiXqLw%2BtDewMpjkx6ma6ccxdURunj6XpDA3PIDi4hlDsOvYePTcLDS8MRFrekc0Hs9ZZ6y7NvMVC0DP84iGzpH7TYvG4E2Mjx6mkrExjC1Pdi3wktDhI9jYfGFPQL2Fsdk65pwVYaZOEHr3mxsEw4dHKRooJTbgq5RcqjtKHMqhKk3AHs8lMFuU9pzd8VysQM06OedP8rRrwAF5cY52AW9cOmlvT8Rccswd2fCP1EUlKvxi9fC5NJrU23qiNUdYw2v8YelYqxkg5RnM2UcAxf2HrMUTcotUYItiNcN2B6rLnMR7IMz0qMtjrVGWil3BMVnBpNHonkxsa77Mj8cL38BcwwSIgpz3WtlfwEV4F%2F3FMVIDFX7bGCkkBN99wSXs5x6qf3zR6LwKsKM56nHsk8oIWfwmK9dz9eATvkcl77%2BJhoOjKjfkh2%2Fho55ppfOJsCSoLnwcrtfibXsAq3zStlroJYBB%2B%2BYqTv95nYUSkNj87zpHyPtv1AN9wZ6Rg5SDoHnaZ07i35s9JhYe%2BNc07eDGLQh2pt9nUGp20%2FZNjTOisGmth9ul1Lx%2F5DFdcTfBhMaWFBVONz2N4Z2DUQo4FYHFoJL37iaDz%2BEvwrMZyOLmC8SYpFhjNYXEeGOJkijM%2BnX5%2F4qx67jXdCWF8ECob66O7%2FGpMmgN7lRQ7BCM%2BZbo8PtzX5%2FrfYMgeqn7UEPWfO0jHUgLDjTPy1Xl5gpAnjyAPLQ4BbG9s%2FF%2BczXz1RAjp8rWi2h7S2Yt3U%2FXr3QLBEiZQ%2BX3p2HDzOXq0RcoNX2DPMd9X23YC1LTW07%2BdFBUTh2L5S5XdAJFI7jroOmHY7VEvQKoYs1L95VEFjDUsrrQBjqxAWrJDeVAqjrkA0oPSOsE%2BHzAZoCeBHX8pMxgChOKMuG9zQM1ti9XncklUg52Jk1srjeBv%2FuPFlOvWtKiqL9231lGhT7U0dH9vEMz1hr3yXx2FyQCf0YS4y5aXQPruoV%2FlmpjXEy0QCKNWD321kbSwQ2pgYS2L2Pq41mEsuyCvQhxB%2BnF6blJzC8LjgLFSiiAJAJJCCyF3ePonsBVrZQ9BGQUmgwuHpdBA8lsm9OCZLBoxw%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20260521T055209Z&X-Amz-SignedHeaders=host&X-Amz-Expires=600&X-Amz-Credential=ASIA25DCYHY376T2QGY7%2F20260521%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=253f6ad2cf2b3f0d4b6989a20ef1d77ae0eeee76ba5d0955a9a8440ed3299769",
+        "CodeSha256": "q139eT1G99zj4ukcrtwvKpNH83fukZBOtA21vpmExL4=",
+        "CodeSize": 53554188
+    },
+    "LayerArn": "arn:aws:lambda:us-east-1:697546651215:layer:fraud-ml-dependencies",
+    "LayerVersionArn": "arn:aws:lambda:us-east-1:697546651215:layer:fraud-ml-dependencies:1",
+    "Description": "",
+    "CreatedDate": "2026-05-21T05:52:20.119+0000",
+    "Version": 1,
+    "CompatibleRuntimes": [
+        "python3.12"
+    ]
+}
